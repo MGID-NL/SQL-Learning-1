@@ -26,3 +26,6 @@ Welkom! Hier vind je een verzameling SQL-query's die gericht zijn op het analyse
 
 ## Leerprocess 
 Deze SQL-query's zijn gemaakt om te leren en te experimenteren met data! 🚀
+
+![data_analysis_skills_salary](https://github.com/user-attachments/assets/a15f409e-2a5f-4e41-9c1e-0e9cac95d8ba)
+
